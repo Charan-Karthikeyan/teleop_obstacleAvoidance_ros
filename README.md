@@ -13,4 +13,5 @@ To run the file for the obstacle avoidance
 
 rosrun teleop_obstacleAvoidance_ros avoidance.py 
 
-
+The link to the video
+https://youtu.be/7Kr11n4szzQ
